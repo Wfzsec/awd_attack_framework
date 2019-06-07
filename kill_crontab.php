@@ -1,0 +1,2 @@
+<?php
+system("crontab -r");
